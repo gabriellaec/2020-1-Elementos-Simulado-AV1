@@ -30,7 +30,7 @@ begin
     assert(A = '1')  report "Falha em teste: 1" severity error;
 
     X<= '1'; Y<= '0'; Z<='0';
-    wait for 200 ps
+    wait for 200 ps;
     assert(A = '1')  report "Falha em teste: 1" severity error;
 
     X<= '1'; Y<= '1'; Z<='1';
