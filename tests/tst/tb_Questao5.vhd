@@ -33,7 +33,7 @@ begin
 
     X<= "11"; Y<= "11";
     wait for 200 ps;
-    assert(Z = "1000")  report "Falha em teste: 1" severity error;
+    assert(Z = "1001")  report "Falha em teste: 1" severity error;
 
     X<= "10"; Y<= "10";
     wait for 200 ps;
