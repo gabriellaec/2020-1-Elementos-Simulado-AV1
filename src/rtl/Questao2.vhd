@@ -20,5 +20,7 @@ architecture  rtl OF Questao2 IS
 
 begin
 
+	A <= not((X and Y) or Y) or not(X and Y and Z);
+
 
 end architecture;

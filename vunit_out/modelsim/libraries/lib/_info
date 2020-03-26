@@ -1,0 +1,203 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/borg/Documents/2020-1-Elementos-Simulado-AV1
+Equestao2
+Z1 w1585243977
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao2.vhd
+Z5 F/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao2.vhd
+l0
+L13
+VDXFlS1Z`Hl;[g`HRh_]6c1
+!s100 2hMGReZleNA@0Z]RZR>RD2
+Z6 OV;C;10.5b;63
+33
+Z7 !s110 1585243982
+!i10b 1
+Z8 !s108 1585243982.000000
+Z9 !s90 -quiet|-modelsimini|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao2.vhd|
+Z10 !s107 /home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao2.vhd|
+!i113 1
+Z11 o-quiet -2008 -work lib
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+DEx4 work 8 questao2 0 22 DXFlS1Z`Hl;[g`HRh_]6c1
+l21
+L19
+VFS^61W>zZ`lFROF[4^NBZ3
+!s100 f?5dkRYF:XzX7lIJoIP6H1
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Equestao5
+Z13 w1585243168
+R2
+R3
+R0
+Z14 8/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao5.vhd
+Z15 F/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao5.vhd
+l0
+L13
+V6JTA<]^z[_?fO5LeZ]71@3
+!s100 TJgNNbK?b_23FS9:LM1C^1
+R6
+33
+Z16 !s110 1585243970
+!i10b 1
+Z17 !s108 1585243970.000000
+Z18 !s90 -quiet|-modelsimini|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao5.vhd|
+Z19 !s107 /home/borg/Documents/2020-1-Elementos-Simulado-AV1/src/rtl/Questao5.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 8 questao5 0 22 6JTA<]^z[_?fO5LeZ]71@3
+l22
+L20
+VTbYOnZOQnndOE[6NBAlY;2
+!s100 7MXBYEK16bMmdd;[5^2<[0
+R6
+33
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Etb_questao2
+R13
+Z20 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
+Z21 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
+Z22 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
+Z23 DPx9 vunit_lib 7 run_pkg 0 22 L;71H6TCjU4gL1AJPm_Vd0
+Z24 DPx9 vunit_lib 13 run_types_pkg 0 22 ZfDWW?_fEaQBz>VkefFUV2
+Z25 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
+Z26 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
+Z27 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
+Z28 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
+Z29 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
+Z30 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
+Z31 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
+Z32 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
+Z33 DPx9 vunit_lib 15 log_handler_pkg 0 22 4LC?iW3FIdm8J@]^l:Fa_0
+Z34 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
+Z35 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
+Z36 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
+Z37 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
+Z38 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
+Z39 D^#x9 vunit_lib 18 data_types_context 0 22 [Ik[<YbW8Ag;h5P``aP2g3
+Z40 DPx9 vunit_lib 8 dict_pkg 0 22 _EQKR[P[ibBW^<0mzPejD2
+Z41 DPx9 vunit_lib 19 byte_vector_ptr_pkg 0 22 nMb7G]QlQkbCia?ecQlOB1
+Z42 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 ;oGa_UEi8nVncYkDRR_Aj1
+Z43 DPx9 vunit_lib 14 queue_pool_pkg 0 22 W_@1eWPT4E>cBF2g>m`PC0
+Z44 DPx9 vunit_lib 17 integer_array_pkg 0 22 o:H2ie>cVB<O<8]@gJG;:3
+Z45 DPx9 vunit_lib 19 external_string_pkg 0 22 iE_JL@S7G[ScLPziLPH3]3
+Z46 DPx9 vunit_lib 14 string_ptr_pkg 0 22 n[AzFb_A:6S@HQFZYcL]h0
+Z47 DPx9 vunit_lib 9 queue_pkg 0 22 CMi_fVS`R;@j5e>onMNln3
+Z48 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 FX=7VbM]W@D7RN`^3N8aJ3
+Z49 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
+Z50 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z51 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
+Z52 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z53 DPx4 ieee 12 math_complex 0 22 5i:;_e<WQ2;?b7>BdkGQL0
+Z54 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
+Z55 DPx9 vunit_lib 27 external_integer_vector_pkg 0 22 hl?S7F7[zeX8D09=mXj_W2
+Z56 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 dQHde;mb=n>VUWALE0?M33
+Z57 DPx9 vunit_lib 9 types_pkg 0 22 8X1EBI95Q8hI=Vi3D9DP;0
+R2
+R3
+R0
+Z58 8/home/borg/Documents/2020-1-Elementos-Simulado-AV1/tests/tst/tb_Questao2.vhd
+Z59 F/home/borg/Documents/2020-1-Elementos-Simulado-AV1/tests/tst/tb_Questao2.vhd
+l0
+L7
+V<:caJcG]27l68X9g3eB1X0
+!s100 ;Q8<P<XiDcTgFcR?TniR_1
+R6
+33
+Z60 !s110 1585243986
+!i10b 1
+Z61 !s108 1585243986.000000
+Z62 !s90 -quiet|-modelsimini|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/2020-1-Elementos-Simulado-AV1/tests/tst/tb_Questao2.vhd|
+Z63 !s107 /home/borg/Documents/2020-1-Elementos-Simulado-AV1/tests/tst/tb_Questao2.vhd|
+!i113 1
+R11
+R12
+Atb
+R20
+R21
+R22
+R23
+R24
+R25
+R26
+R27
+R28
+R29
+R30
+R31
+R32
+R33
+R34
+R35
+R36
+R37
+R38
+R39
+R40
+R41
+R42
+R43
+R44
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R2
+R3
+DEx4 work 11 tb_questao2 0 22 <:caJcG]27l68X9g3eB1X0
+l20
+L11
+VolZEd2K@fCQ`zRX40`5550
+!s100 ekmX`YccOVf2WBgfT^hSk2
+R6
+33
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R11
+R12
